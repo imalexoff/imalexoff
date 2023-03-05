@@ -1,15 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-```mermaid
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-```
+<div>
+    <a href="https://www.linkedin.com/in/alexander-shuvalov/">
+        <img src="https://img.shields.io/badge/Alexander%20Shuvalov-blue?flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
